@@ -1,6 +1,6 @@
 # Spotify to Apple Music Downloader
 
-I have an iPod Shuffle and I get lazy. Automatically download songs from a Spotify playlist, convert them to MP3 via YouTube, and import them into Apple Music.
+Easy way to import Spotify playlist into local Apple Music.
 
 ## Usage
 
