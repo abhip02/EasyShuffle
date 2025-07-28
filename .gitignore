@@ -1,0 +1,6 @@
+__pycache__/
+*.mp3
+*.wav
+DownloadedMP3s/
+youtube_links.txt
+.env
