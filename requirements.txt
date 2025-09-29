@@ -1,9 +1,9 @@
 certifi==2025.7.14
 charset-normalizer==3.4.2
 idna==3.10
+python-dotenv==1.1.1
 redis==6.2.0
 requests==2.32.4
 spotipy==2.25.1
 urllib3==2.5.0
-yt-dlp==2025.7.21
-python-dotenv
+yt-dlp==2025.9.26
